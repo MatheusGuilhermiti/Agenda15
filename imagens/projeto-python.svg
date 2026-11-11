@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6041d8"/><stop offset="1" stop-color="#29216f"/></linearGradient></defs>
+<rect width="900" height="500" rx="32" fill="url(#bg)"/>
+<circle cx="760" cy="110" r="150" fill="#fff" opacity=".07"/><circle cx="110" cy="420" r="160" fill="#a78bfa" opacity=".13"/>
+<rect x="220" y="90" width="460" height="320" rx="28" fill="#151b36" stroke="#c4b5fd" stroke-width="7"/>
+<rect x="220" y="90" width="460" height="55" rx="25" fill="#272b50"/>
+<circle cx="260" cy="117" r="9" fill="#fb7185"/><circle cx="292" cy="117" r="9" fill="#fbbf24"/><circle cx="324" cy="117" r="9" fill="#4ade80"/>
+<g fill="#c4b5fd" font-family="monospace" font-size="30"><text x="275" y="210">def</text><text x="360" y="210" fill="#fbbf24"> projeto():</text><text x="305" y="270" fill="#67e8f9">print</text><text x="390" y="270">( "Olá!" )</text><text x="305" y="330" fill="#86efac">return</text><text x="415" y="330"> resultado</text></g>
+</svg>
